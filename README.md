@@ -205,51 +205,19 @@ Un programa de **C++** diseñado para demostrar:
 
 ---
 
-## :white_circle: ASCII Ejecucion 1
+## :white_circle: ASCII Ejecucion 
 
 ![](images/11_ascii_Ejecucion1.png)
----
-## :white_circle: ASCII Ejecucion 2
-
 ![](images/11_ascii_Ejecucion2.png)
----
-
-## :white_circle: ASCII Ejecucion 3 
-
 ![](images/11_ascii_Ejecucion3.png)
----
-
-## :white_circle: ASCII Ejecucion 4 
-
 ![](images/11_ascii_Ejecucion4.png)
----
-
-## :white_circle: ASCII Ejecucion 5
-
 ![](images/11_ascii_Ejecucion5.png)
----
-
-## :white_circle: ASCII Ejecucion 6
-
 ![](images/11_ascii_Ejecucion6.png)
----
-
-## :white_circle: ASCII Ejecucion 7
-
 ![](images/11_ascii_Ejecucion7.png)
----
-
-## :white_circle: ASCII Ejecucion 8
-
 ![](images/11_ascii_Ejecucion8.png)
----
-
-## :white_circle: ASCII Ejecucion 9
-
 ![](images/11_ascii_Ejecucion9.png)
 ---
-es/11_ascii.png)
----
+
 ## :white_circle: Archivos Write Ejecucion
 
 ![](images/12_archivos_write_Ejecucion.png)
