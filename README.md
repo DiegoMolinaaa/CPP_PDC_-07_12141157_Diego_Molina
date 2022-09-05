@@ -2,7 +2,8 @@
 
 ## :copyright: Autor
 
-- :camera: <img >
+- :camera: <img width="160" alt="Yo 30x30" src="https://user-images.githubusercontent.com/98608987/188343878-69961ea7-6aee-4aaa-b401-582de8d8efdd.png">
+>
 
 - :technologist: **Diego Molina Valladares**
 - :e-mail: diego.molina0801@gmail.com
@@ -12,7 +13,7 @@
 
 ## :dart: Objetivos
 
-![](images/c++.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png)
 
 Un programa de **C++** diseñado para demostrar:
 
@@ -36,80 +37,236 @@ Un programa de **C++** diseñado para demostrar:
    - Entrada y Salida de Flujos
 
 ---
+## :black_circle: EOF, Get y Put
 
-## :black_circle: Principal.cpp
-
-![](images/Principal.cpp.png)
-
----
-
-## :triangular_ruler: Diagrama
-
-![](images/Diagrama.png)
+![](images/01_eof_get_y_put.png)
 
 ---
 
-## :white_large_square: SistemaOperativo.hpp
+## :triangular_ruler: Cin y Cin-Get
 
-![](images/SistemaOperativo.hpp.png)
-
-## :white_medium_square: SistemaOperativo.cpp
-
-![](images/SistemaOperativo.cpp.png)
+![](images/02_cin_y_cin-get.png)
 
 ---
 
-## :large_blue_diamond: Linux.hpp
+## :white_large_square: Cin Getline
 
-![](images/Linux.hpp.png)
+![](images/03_cin_getline.png)
 
-## :small_blue_diamond: Linux.cpp
+## :white_medium_square: Read y Write
 
-![](images/Linux.cpp.png)
-
----
-
-## :large_orange_diamond: Mac.hpp
-
-![](images/Mac.hpp.png)
-
-## :small_orange_diamond: Mac.cpp
-
-![](images/Mac.cpp.png)
+![](images/04_read_y_write.png)
 
 ---
 
-##  :black_large_square:  Windows.hpp
+## :large_blue_diamond: Dec, Hex, Oct y Setbase
 
-![](images/Windows.hpp.png)
+![](images/05_dec_oct_hex_y_setbase.png)
 
-## :black_medium_small_square: Windows.cpp
+---
+## :small_blue_diamond: Raiz Cuadrada
 
-![](images/Windows.cpp.png)
+![](images/06_raizCuadrada.png)
 
 ---
 
-## :white_circle: Makefile
+## :large_orange_diamond: Cout Width
 
-![](images/Makefile.png)
+![](images/07_cout_width.png)
 
-## :white_circle: Build.bash.bat
+## :small_orange_diamond: Cout Setw
 
-![](images/Build.bash.bat.png)
-
-## :red_circle: Salida - dynamic_cast
-
-![](images/Salida-dynamic_cast.png)
-
-## :large_blue_circle: Salida - static_cast
-
-![](images/Salida-static_cast.png)
+![](images/08_cout_setw.png)
 
 ---
 
-## :computer: Código
+##  :black_large_square:  Cout Setw 2
 
-- :blue_book: [Ejemplo-de-static_cast-vs-dynamic_cast](https://github.com/nelbren/Ejemplo-de-static_cast-vs-dynamic_cast)
+![](images/09_cout_setw2.png)
+
+---
+## :black_medium_small_square: Scientific y Fixed
+
+![](images/10_scientific_y_fixed.png)
+
+---
+
+## :white_circle: ASCII
+
+![](images/11_ascii.png)
+
+## :white_circle: Archivos Write
+
+![](images/12_archivos_write.png)
+
+## :red_circle: Archivos Read
+
+![](images/13_archivos_read.png)
+
+## :large_blue_circle: Acceso Aleatorio
+
+![](images/14_acceso_aleatorio_V1.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio Contacto.h
+
+![](images/14_acceso_aleatorio_hpp_V1.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio Contacto.cpp
+
+![](images/14_acceso_aleatorio_cpp_V1.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio V2
+
+![](images/15_acceso_aleatorio_V2.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio V2 Contacto.h
+
+![](images/15_acceso_aleatorio_Contacto_hpp_V2.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio V2 Contacto.cpp
+
+![](images/15_acceso_aleatorio_Contacto_cpp_V2.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio V2 Operaciones.h
+
+![](images/15_acceso_aleatorio_Operaciones_hpp_V2.png)
+
+---
+## :large_blue_circle: Acceso Aleatorio V2 Operaciones.cpp
+
+![](images/15_acceso_aleatorio_Operaciones_cpp_V2.png)
+
+---
+## Ejecuciones
+--- 
+## :black_circle: EOF, Get y Put Ejecucion
+
+![](images/01_eof_get_y_put_Ejecucion.png)
+
+---
+
+## :triangular_ruler: Cin y Cin-Get Ejecucion
+
+![](images/02_cin_y_cin-get_Ejecucion.png)
+
+---
+
+## :white_large_square: Cin Getline Ejecucion
+
+![](images/03_cin_getline_Ejecucion.png)
+
+## :white_medium_square: Read y Write Ejecucion
+
+![](images/04_read_y_write_Ejecucion.png)
+
+---
+
+## :large_blue_diamond: Dec, Hex, Oct y Setbase Ejecucion
+
+![](images/05_dec_oct_hex_y_setbase_Ejecucion.png)
+
+---
+## :small_blue_diamond: Raiz Cuadrada Ejecucion 1
+
+![](images/06_raizCuadrada_Ejecucion01.png)
+
+---
+## :small_blue_diamond: Raiz Cuadrada Ejecucion 2
+
+![](images/06_raizCuadrada_Ejecucion02.png)
+
+---
+
+## :large_orange_diamond: Cout Width Ejecucion
+
+![](images/07_cout_width_Ejecucion.png)
+
+---
+## :small_orange_diamond: Cout Setw Ejecucion
+
+![](images/08_cout_setw_Ejecucion.png)
+
+---
+
+##  :black_large_square:  Cout Setw 2 Ejecucion
+
+![](images/09_cout_setw2_Ejecucion.png)
+
+---
+## :black_medium_small_square: Scientific y Fixed Ejecucion 
+
+![](images/10_scientific_y_fixed_Ejecucion.png)
+
+---
+
+## :white_circle: ASCII Ejecucion 1
+
+![](images/11_ascii_Ejecucion1.png)
+---
+## :white_circle: ASCII Ejecucion 2
+
+![](images/11_ascii_Ejecucion2.png)
+---
+
+## :white_circle: ASCII Ejecucion 3 
+
+![](images/11_ascii_Ejecucion3.png)
+---
+
+## :white_circle: ASCII Ejecucion 4 
+
+![](images/11_ascii_Ejecucion4.png)
+---
+
+## :white_circle: ASCII Ejecucion 5
+
+![](images/11_ascii_Ejecucion5.png)
+---
+
+## :white_circle: ASCII Ejecucion 6
+
+![](images/11_ascii_Ejecucion6.png)
+---
+
+## :white_circle: ASCII Ejecucion 7
+
+![](images/11_ascii_Ejecucion7.png)
+---
+
+## :white_circle: ASCII Ejecucion 8
+
+![](images/11_ascii_Ejecucion8.png)
+---
+
+## :white_circle: ASCII Ejecucion 9
+
+![](images/11_ascii_Ejecucion9.png)
+---
+es/11_ascii.png)
+---
+## :white_circle: Archivos Write Ejecucion
+
+![](images/12_archivos_write_Ejecucion.png)
+
+## :red_circle: Archivos Read Ejecucion
+
+![](images/13_archivos_read_Ejecucion.png)
+
+## :large_blue_circle: Acceso Aleatorio Ejecucion
+
+![](images/14_acceso_aleatorio_V1_Ejecucion.png)
+
+---
+
+## :large_blue_circle: Acceso Aleatorio V2 Ejecucion
+
+![](images/15_acceso_aleatorio_V2_Ejecucion.png)
 
 ---
 #### Herramientas:
